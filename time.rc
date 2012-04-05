@@ -1,0 +1,6 @@
+#[link(name = "time",
+       vers = "0.1pre",
+       uuid = "86a75676-abb0-4480-8739-a997999d3afc")];
+#[crate_type = "lib"];
+
+use std;

@@ -1,0 +1,5 @@
+*.sw[po]
+time
+time.dSYM/
+libtime*.dylib
+libtime*.dylib.dSYM/
